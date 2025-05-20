@@ -12,9 +12,9 @@ Click here for my [linkedin](http://https://www.linkedin.com/in/sade-watson-6265
 
 Throughout my high school years, I have actively pursued knowledge and skills in cybersecurity and finance. I have earned several certifications that have helped me deepen my understanding and demonstrate my commitment, including:
 
-- **Microsoft MS-900**
-- **ITS AI**
+- **Microsoft Azure AI-900**
 - **Cisco Networking**
+- **ITS AI**
 - **ITS Python**
 - **etc..**
 
