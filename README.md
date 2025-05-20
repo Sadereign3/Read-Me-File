@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # About Me
 - 👋 Hi, I’m @Sadereign3
--Driven by an insatiable curiosity for technology and a passion for safeguarding digital landscapes, I am a rising college freshman ready to embark on an exciting journey in cybersecurity and finance.
+- Driven by an insatiable curiosity for technology and a passion for safeguarding digital landscapes, I am a rising college freshman ready to embark on an exciting journey in cybersecurity and finance.
 Click here for my [linkedin](http://https://www.linkedin.com/in/sade-watson-626563242/ "linkedin")!
 
 ## My Journey So Far
