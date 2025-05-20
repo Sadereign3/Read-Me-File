@@ -23,6 +23,7 @@ I have also participated in and won several competitions, where I sharpened my s
 - 1st in the state for **Skills USA;s Web Design and Development**
 - 2nd Place Winner of the **America on Tech Miami Cohort's Web Design competition**
 - Nova High's **CTE (Career Technical Education) Scholar**
+- Nova High's **BCAA Althele**
 
 
 ## My Passion for Tech ⚡
